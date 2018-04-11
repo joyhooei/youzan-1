@@ -1,5 +1,5 @@
 let url = {
-  hostLists: '/index/hostLists'
+  hostLists: '/index/hotLists?'
 };
 
 //开发环境与真实环境切换
